@@ -1,0 +1,22 @@
+{
+  "name": "demo_file_upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxyqqs/demo_file_upload.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dxyqqs/demo_file_upload/issues"
+  },
+  "homepage": "https://github.com/dxyqqs/demo_file_upload#readme",
+  "devDependencies": {
+    "koa": "^2.13.4"
+  }
+}
